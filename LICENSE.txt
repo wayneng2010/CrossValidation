@@ -1,0 +1,5 @@
+LICENSE file 
+
+This is to indicate that my code can be used and modified (with attribution) after the contest.
+
+Wayne Ng
