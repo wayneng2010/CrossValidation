@@ -1,13 +1,14 @@
-TITLE : K-fold Cross Validation
+#TITLE : K-fold Cross Validation
 
-Author: Wayne Ng
+#Author: Wayne Ng
 
-Affiliation: Graduate Certificate Candidate, Harvard Extension School 
+#Affiliation: Graduate Certificate Candidate, Harvard Extension School 
+#
+#
+#
 
+#K-fold Cross Validation
 
-
-
-K-fold Cross Validation
 ![Alt Text](WayneNg_artifact.gif)
 
 
