@@ -5,6 +5,7 @@ Author: Wayne Ng
 Affiliation: Graduate Certificate Candidate, Harvard Extension School 
 
 
+
 ![Alt Text](WayneNg_artifact.gif)
 
 
