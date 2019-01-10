@@ -6,6 +6,8 @@ Affiliation: Graduate Certificate Candidate, Harvard Extension School
 
 
 
+
+K-fold Cross Validation
 ![Alt Text](WayneNg_artifact.gif)
 
 
