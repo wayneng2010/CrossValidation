@@ -2,13 +2,9 @@
 # Date: Jan 10, 2019
 # Title: k-fold cross validation
 #
-# This code uses code from the example "Placing Animations side-by-side with magick"
-# submitted by Matt Crump
-# Here is the Reference: https://github.com/thomasp85/gganimate/wiki/Animation-Composition
-#
-# This code uses code from CSCI-E63C for MSE calculation
-#
-#rm(list=ls())
+# Adapted from https://github.com/thomasp85/gganimate/wiki/Animation-Composition
+# Adapted from CSCI-E63C on MSE calculation.
+
 library(ggplot2)
 library(gganimate)
 library(dplyr)
