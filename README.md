@@ -1,5 +1,5 @@
-# CrossValidation
+#####    Welcome to Cross Validation
 
-# CrossValidation can perform data model validation.For detail, please refer to 
-
+# Cross Validation can perform data model validation.
+# For detail, please refer to 
 https://github.com/wayneng2010/CrossValidation/blob/master/WayneNg_submission.md
