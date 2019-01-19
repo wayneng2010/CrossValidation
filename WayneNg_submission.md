@@ -2,7 +2,7 @@ TITLE : K-fold Cross Validation
 
 Author: Wayne Ng
 
-Affiliation: Graduate Certificate Candidate, Harvard Extension School 
+Affiliation: Student, Harvard Extension School 
 
 #
 
